@@ -15,8 +15,8 @@ This repository contains the submission for the Precog-2024 recruitment task by 
 
 ## Directory Structure of Submission
 
-1. All README files contains reports 
-2. Directory structure is self explanatory, and in case of confusion, README files are there to clarify, (like in Q3)
+1. All README files contain reports 
+2. Directory structure is self-explanatory, and in case of confusion, README files are there to clarify.
 
 ## Libraries Used
 
@@ -59,6 +59,8 @@ To run this project on your local machine, follow these steps:
 ```bash
   pip3 install -r requirements.txt
 ```
+Keep going into different task folders and run the ipynb notebooks
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
