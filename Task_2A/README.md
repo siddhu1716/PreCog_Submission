@@ -34,4 +34,4 @@ Using that model we have calclulated the frequency of the detected objects
 
 and represented as follows
 
-<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_1/Task1(img).jpeg"/>
+<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_2A/Task1(img).jpeg"/>
