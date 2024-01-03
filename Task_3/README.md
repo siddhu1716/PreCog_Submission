@@ -1,8 +1,8 @@
 # Task - 3
 
-For the given classification task, We intented to classify weather the give input is a hateful meme or not hateful meme 
+For the given classification task, We intended to classify whether the give input is a hateful meme or not hateful meme 
 
-For that classication purpose we have used images and their respective text along with their labels i.e hateful meme or not hateful meme.
+For that classification purpose, we have used images and their respective text along with their labels i.e hateful memes or not hateful memes.
 
 Which are labeled in the JSON files as 
 notepad
@@ -10,24 +10,24 @@ notepad
 
 0 - Not hateful meme, 1 - hateful meme
 
-We have built two models for the calssification task
+We have built two models for the classification task
 
 ## 1. Model - 1 (Deep learning model):
 Model Architecture: <br />
 <img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_3/Model.png"/>
 
 It mainly consists of 2 networks
-1. Neural netrwork for image model
+1. Neural network for an image model
 2. Lstm for text model
 
-And finally concatinated both the model predictions 
+And finally concatenated both the model predictions 
 
-## Accuried accuracy : 
+## Acquried accuracy : 
 notepad
 Validation Accuracy: 71.82%
 
 
-## Evalutation metrics : 
+## Evaluation metrics : 
 PR-Curve : <br />
 <img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_3/PR_Curve.png">
 
