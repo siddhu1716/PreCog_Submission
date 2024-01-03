@@ -1,0 +1,80 @@
+Object Class ID: person, Frequency: 115220
+Object Class ID: car, Frequency: 5946
+Object Class ID: tie, Frequency: 14713
+Object Class ID: chair, Frequency: 13337
+Object Class ID: bus, Frequency: 731
+Object Class ID: truck, Frequency: 1655
+Object Class ID: umbrella, Frequency: 3315
+Object Class ID: book, Frequency: 5976
+Object Class ID: dog, Frequency: 3666
+Object Class ID: donut, Frequency: 2190
+Object Class ID: teddy bear, Frequency: 1941
+Object Class ID: cat, Frequency: 1446
+Object Class ID: apple, Frequency: 943
+Object Class ID: baseball bat, Frequency: 1455
+Object Class ID: baseball glove, Frequency: 1149
+Object Class ID: sheep, Frequency: 3562
+Object Class ID: zebra, Frequency: 261
+Object Class ID: horse, Frequency: 2594
+Object Class ID: backpack, Frequency: 5204
+Object Class ID: tennis racket, Frequency: 624
+Object Class ID: dining table, Frequency: 5869
+Object Class ID: parking meter, Frequency: 421
+Object Class ID: cup, Frequency: 3639
+Object Class ID: traffic light, Frequency: 916
+Object Class ID: train, Frequency: 589
+Object Class ID: bench, Frequency: 3888
+Object Class ID: tv, Frequency: 1041
+Object Class ID: oven, Frequency: 1170
+Object Class ID: boat, Frequency: 1427
+Object Class ID: bowl, Frequency: 2685
+Object Class ID: bird, Frequency: 3510
+Object Class ID: cake, Frequency: 2100
+Object Class ID: bed, Frequency: 3179
+Object Class ID: frisbee, Frequency: 672
+Object Class ID: bottle, Frequency: 4132
+Object Class ID: banana, Frequency: 1403
+Object Class ID: vase, Frequency: 1486
+Object Class ID: handbag, Frequency: 8564
+Object Class ID: skis, Frequency: 533
+Object Class ID: carrot, Frequency: 1297
+Object Class ID: hot dog, Frequency: 1000
+Object Class ID: sandwich, Frequency: 928
+Object Class ID: cow, Frequency: 1673
+Object Class ID: spoon, Frequency: 1838
+Object Class ID: cell phone, Frequency: 5346
+Object Class ID: remote, Frequency: 1264
+Object Class ID: clock, Frequency: 1818
+Object Class ID: orange, Frequency: 707
+Object Class ID: scissors, Frequency: 1504
+Object Class ID: fork, Frequency: 883
+Object Class ID: pizza, Frequency: 737
+Object Class ID: broccoli, Frequency: 548
+Object Class ID: knife, Frequency: 1933
+Object Class ID: potted plant, Frequency: 2190
+Object Class ID: toothbrush, Frequency: 1547
+Object Class ID: elephant, Frequency: 588
+Object Class ID: surfboard, Frequency: 840
+Object Class ID: snowboard, Frequency: 386
+Object Class ID: kite, Frequency: 1292
+Object Class ID: wine glass, Frequency: 1444
+Object Class ID: hair drier, Frequency: 388
+Object Class ID: mouse, Frequency: 321
+Object Class ID: motorcycle, Frequency: 1548
+Object Class ID: skateboard, Frequency: 937
+Object Class ID: suitcase, Frequency: 1308
+Object Class ID: refrigerator, Frequency: 982
+Object Class ID: laptop, Frequency: 1086
+Object Class ID: airplane, Frequency: 491
+Object Class ID: couch, Frequency: 3233
+Object Class ID: stop sign, Frequency: 467
+Object Class ID: bicycle, Frequency: 1384
+Object Class ID: sports ball, Frequency: 996
+Object Class ID: sink, Frequency: 1118
+Object Class ID: microwave, Frequency: 330
+Object Class ID: bear, Frequency: 590
+Object Class ID: giraffe, Frequency: 236
+Object Class ID: keyboard, Frequency: 281
+Object Class ID: toaster, Frequency: 63
+Object Class ID: toilet, Frequency: 304
+Object Class ID: fire hydrant, Frequency: 181
