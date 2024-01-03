@@ -14,7 +14,7 @@ We have built two models for the classification task
 
 ## 1. Model - 1 (Deep learning model):
 Model Architecture: <br />
-<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_3/Model.png"/>
+<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_2C/Model.png"/>
 
 It mainly consists of 2 networks
 1. Neural network for an image model
@@ -29,10 +29,10 @@ Validation Accuracy: 71.82%
 
 ## Evaluation metrics : 
 PR-Curve : <br />
-<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_3/PR_Curve.png">
+<img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_2C/PR_Curve.png">
 
 ROC-Curve : <br />
-<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_3/ROC_Curve.png"/>
+<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_2C/ROC_Curve.png"/>
 
 
 ## 2. Model - 2 (KNN):
@@ -43,5 +43,5 @@ Used 3-NN Model for the classification purpose
 notepad
 Accuracy: 0.8036470588235294
 
-<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_3/Data_Visualization.png"/>
+<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_2C/Data_Visualization.png"/>
 
