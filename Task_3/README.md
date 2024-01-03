@@ -13,7 +13,7 @@ notepad
 We have built two models for the calssification task
 
 ## 1. Model - 1 (Deep learning model):
-Model Architecture:
+Model Architecture: <br />
 <img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_3/Model.png"/>
 
 It mainly consists of 2 networks
@@ -28,10 +28,10 @@ Validation Accuracy: 71.82%
 
 
 ## Evalutation metrics : 
-PR-Curve :
+PR-Curve : <br />
 <img src="https://github.com/hemanth1403/PreCog_Submission/blob/main/Task_3/PR_Curve.png">
 
-ROC-Curve :
+ROC-Curve : <br />
 <img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_3/ROC_Curve.png"/>
 
 
