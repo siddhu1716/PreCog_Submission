@@ -29,7 +29,7 @@ Validation Accuracy: 71.82%
 
 ## Evaluation metrics : 
 PR-Curve : <br />
-<img src="https://github.com/siddhu1716PreCog_Submission/blob/main/Task_2C/PR_Curve.png"/>
+<img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_2C/PR_Curve.png"/>
 
 ROC-Curve : <br />
 <img src="https://github.com/siddhu1716/PreCog_Submission/blob/main/Task_2C/ROC_Curve.png"/>
